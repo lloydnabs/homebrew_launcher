@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Homebapp Launcher</name>
+  <coder>lloydnabs</coder>
+  <version>1.0</version>
+  <release_date>201702101945</release_date>
+  <short_description>WiiU Homebapp Launcher</short_description> 
+  <long_description>Loads WiiU homebapps from SD card and from network.
+
+  </long_description> 
+
+</app>
